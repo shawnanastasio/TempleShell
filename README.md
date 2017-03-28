@@ -15,7 +15,7 @@ TempleShell can be started by including the source file and calling the main fun
 TempleShell;
 ```
 
-TempleShell currently supports a subset of Unix commands such as `cd`, `ls`, `rm', `cp`, and `mv`.
+TempleShell currently supports a subset of Unix commands such as `cd`, `ls`, `rm`, `cp`, and `mv`.
 
 
 You can see a full listing of commands by typing `help`.
