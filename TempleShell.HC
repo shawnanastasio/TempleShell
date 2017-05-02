@@ -195,7 +195,7 @@ I8 HandleCmd(U8 *input)
       return 1;
     }
     cur_args = GetArgs(input);
-    MkDir(cur_args->argv[0]);
+    DirMk(cur_args->argv[0]);
     FreeArgs(cur_args);
   }
   // rm
