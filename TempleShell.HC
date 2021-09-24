@@ -1,6 +1,6 @@
 #define CMDS_LEN 9
 U8 *cmds[CMDS_LEN] = {"cp", "mv", "mkdir", "rm", "edit", "cd", "ls", "exit", "help"};
-U8 *cmds_help[CMDS_LEN] = {"Copy a file", "Move a file", "Make a direcotry", "Remove a file", "Edit a file", "Change Directory", "List files in directory", "Exit shell", "Display help"};
+U8 *cmds_help[CMDS_LEN] = {"Copy a file", "Move a file", "Make a directory", "Remove a file", "Edit a file", "Change Directory", "List files in directory", "Exit shell", "Display help"};
 
 #define MAX_ARG_LEN 50
 
